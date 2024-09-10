@@ -1,0 +1,27 @@
+References 
+
+Bhatia, M.K., 2017. Data analysis and its importance. International Research Journal of Advanced Engineering and Science, 2(1), pp.166-168.
+
+Nasir, N. and Sukmawati, S., 2023. Analysis of Research Data Quantitative and Qualitative. Edumaspul: Jurnal Pendidikan, 7(1), pp.368-373.
+
+Baffoe-Djan, J.B. and Smith, S.A., 2019. Descriptive statistics in data analysis. In The Routledge handbook of research methods in applied linguistics (pp. 398-414). Routledge.
+
+Zhang, J., Wang, Y., Zhao, Y. and Cai, X., 2018. Applications of inferential statistical methods in library and information science. Data and Information Management, 2(2), pp.103-120.
+
+Alkarkhi, A.F. and Alqaraghuli, W.A., 2018. Easy statistics for food science with R. Academic Press.
+
+Kaplan, B. and Maxwell, J.A., 2005. Qualitative research methods for evaluating computer information systems. In Evaluating the organizational impact of healthcare information systems (pp. 30-55). New York, NY: Springer New York.
+
+Onwuegbuzie, A.J., Leech, N.L. and Collins, K.M., 2012. Qualitative analysis techniques for the review of the literature. Qualitative Report, 17, p.56.
+
+Leech, N.L. and Onwuegbuzie, A.J., 2011. Beyond constant comparison qualitative data analysis: Using NVivo. School psychology quarterly, 26(1), p.70.
+
+Walsh, I., 2015. Using quantitative data in mixed-design grounded theory studies: an enhanced path to formal grounded theory in information systems. European Journal of Information Systems, 24(5), pp.531-557.
+
+Müller, O., Junglas, I., Brocke, J.V. and Debortoli, S., 2016. Utilizing big data analytics for information systems research: challenges, promises and guidelines. European Journal of Information Systems, 25(4), pp.289-302.
+
+Kiger, M.E. and Varpio, L., 2020. Thematic analysis of qualitative data: AMEE Guide No. 131. Medical teacher, 42(8), pp.846-854.
+
+Shiau, W.L. and George, J.F., 2014. A grounded theory approach to information technology adoption. Communications of the Association for Information Systems, 34(1), p.81.
+
+Creswell, J.W. and Creswell, J.D., 2017. Research design: Qualitative, quantitative, and mixed methods approaches. Sage publications.
